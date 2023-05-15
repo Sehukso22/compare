@@ -1,0 +1,5 @@
+n_neighbors: 100
+pruning_degree_multiplier: 1.5
+low_memory: true
+n_iters: 80
+delta: 0.0001

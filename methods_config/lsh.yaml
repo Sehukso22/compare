@@ -1,0 +1,4 @@
+tables: 10
+hash_length: 15
+radius: 2
+buckets: 6
